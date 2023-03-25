@@ -1,0 +1,18 @@
+{
+  "build": {
+    "Neb-GPA-Calculator": {
+      "android": {
+        "buildType": "apk"
+      }
+    },
+    "Neb-GPA-Calculator2": {
+      "android": {
+        "gradleCommand": ":app:assembleRelease"
+      }
+    },
+    "Neb-GPA-Calculator3": {
+      "developmentClient": true
+    },
+    "production": {}
+  }
+}
